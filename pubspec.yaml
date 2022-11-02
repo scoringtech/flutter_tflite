@@ -27,8 +27,6 @@ flutter:
       android:
         package: sq.flutter.tflite
         pluginClass: TflitePlugin
-      ios:
-        pluginClass: TflitePlugin
 
 
   # To add assets to your plugin package, add an assets section, like this:
